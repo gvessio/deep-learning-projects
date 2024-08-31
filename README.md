@@ -1,2 +1,3 @@
-# deep-learning-projects
-A collection of deep learning projects implemented using Keras and TensorFlow, covering essential concepts from Python basics to advanced applications like image classification with CNNs and text generation with RNNs.
+# Deep Learning Projects: From Basics to Advanced Applications
+
+This repository contains a collection of deep learning projects implemented using Keras and TensorFlow. The projects cover a range of topics, from foundational Python concepts to more advanced applications such as image classification with Convolutional Neural Networks and text generation with Recurrent Neural Networks.
