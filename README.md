@@ -2,11 +2,6 @@
 
 This repository contains a collection of deep learning projects implemented using Keras and TensorFlow. The projects cover a range of topics, from foundational Python concepts to more advanced applications such as image classification with Convolutional Neural Networks and text generation with Recurrent Neural Networks.
 
-
-# Deep Learning Projects: From Basics to Advanced Applications
-
-This repository contains a collection of deep learning projects implemented using Keras and TensorFlow. The projects cover a range of topics, from foundational Python concepts to more advanced applications such as text generation with Recurrent Neural Networks (RNNs) and image classification with Convolutional Neural Networks (CNNs).
-
 ## Table of Contents
 
 Each notebook in this repository can be easily run in Google Colab. Simply click on the "Open in Colab" badge next to each notebook title. This will open the notebook directly in Google Colab, where you can run the code, experiment, and even save your own copies:
